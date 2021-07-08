@@ -23,7 +23,7 @@ body {
 }
 
 .logo{
-    background-image: url(../Nlenzphotography.gif);
+    background-image: url(..Nlenzphotography.gif);
     background-position: left;
     background-repeat: no-repeat;
     background-size: 450px; 
@@ -107,7 +107,7 @@ nav ul li a:hover {
 }
 
 .banner {
-    background-image: url(..//hsupra.jpg);
+    background-image: url(../hsupra.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
