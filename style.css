@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(../FinalProject/images/background.jpg);
+    background-image: url(../background.jpg);
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
     line-height: 1.5;
@@ -23,7 +23,7 @@ body {
 }
 
 .logo{
-    background-image: url(../FinalProject/images/Nlenzphotography.gif);
+    background-image: url(../Nlenzphotography.gif);
     background-position: left;
     background-repeat: no-repeat;
     background-size: 450px; 
@@ -107,7 +107,7 @@ nav ul li a:hover {
 }
 
 .banner {
-    background-image: url(..//FinalProject/images/hsupra.jpg);
+    background-image: url(..//hsupra.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
